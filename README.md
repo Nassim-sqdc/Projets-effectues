@@ -1,2 +1,2 @@
 # Safran
-Projet Safran, projet fait durant la fin de ma première année en BTS-CIEL
+Projet Safran, projet fait durant ma première année de BTS-CIEL
