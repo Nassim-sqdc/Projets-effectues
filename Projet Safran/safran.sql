@@ -137,14 +137,6 @@ INSERT INTO `employes` (`ID_employe`, `prenom`, `nom`, `droit`, `ID_SECTEUR`, `I
 (54, 'Clara', 'Tessier', 2, 3, 6),
 (55, 'Claire', 'Vidal', 2, 2, 3),
 (56, 'Thomas', 'Vincent', 3, 2, 6),
-(57, 'Woippy', 'Listembourg', 2, 2, 1),
-(63, 'dd', 'dd', 2, 2, 2),
-(64, 'dd', 'dd', 2, 2, 2),
-(65, 'dd', 'dd', 2, 2, 2),
-(66, 'dd', 'dd', 2, 2, 2),
-(67, 'dd', 'dd', 2, 2, 2),
-(69, 'dxfc', 'wxcv', 1, 1, 1),
-(70, 's', 's', 2, 2, 1);
 
 -- --------------------------------------------------------
 
@@ -226,7 +218,7 @@ INSERT INTO `secteur` (`ID_SECTEUR`, `secteur`) VALUES
 (1, 'drone tactique'),
 (2, 'commandes de vol'),
 (3, 'identification biom'),
-(4, 'recherche et d');
+(4, 'recherche et developpement');
 
 --
 -- Constraints for dumped tables
