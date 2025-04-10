@@ -1,0 +1,57 @@
+Prénom,Nom,Qualité,secteur,droit,salles accessibles
+Bastien,Bernard,Technicien,drone tactique,1,drone : assemblage - tests
+Xavier,Bonnet,Ingénieur,drone tactique,2,drone : assemblage - tests - labo 1
+Thimothé,Boyer,Chercheur,commandes de vol,3,cmd vol : assemblage - tests - labo 1 - labo 2
+Clémence,Caron,Technicienne,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Aurore,Cartier,Chercheuse,identification biométrique,2,bio : assemblage - tests - labo 1
+Thomas,Chevalier,Chercheur,identification biométrique,2,bio : assemblage - tests - labo 1
+Marie,Colin,Technicienne,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Séverinne,Cordier,Chercheuse,identification biométrique,2,bio : assemblage - tests - labo 1
+Morgane,Delaunay,Technicienne,identification biométrique,1,bio : assemblage - tests
+Benjamin,Dubois,Technicien,drone tactique,2,drone : assemblage - tests - labo 1
+Chistelle,Dufour,Technicienne,drone tactique,1,drone : assemblage - tests
+Véronique,Dumond,Technicienne,drone tactique,1,drone : assemblage - tests
+Laurent,Dupond,Ingénieur,drone tactique,2,drone : assemblage - tests - labo 1
+Virginie,Dupuy,Ingénieur,commandes de vol,3,cmd vol : assemblage - tests - labo 1 - labo 2
+Rémy,Durand,Technicien,drone tactique,2,drone : assemblage - tests - labo 1
+Nathalie,Duval,Technicienne,drone tactique,2,drone : assemblage - tests - labo 1
+Julien,Faure,Ingénieur,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Jean,Fontaine,Ingénieur,commandes de vol,3,cmd vol : assemblage - tests - labo 1 - labo 2
+Antoine,Fournier,Ingénieur,drone tactique,3,drone : assemblage - tests - labo 1 - labo 2
+Anaëlle,Garcia,Technicienne,drone tactique,2,drone : assemblage - tests - labo 1
+Philippe,Garnier,Chercheur,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Joëlle,Gilbert,Technicienne,identification biométrique,1,bio : assemblage - tests
+Jérémy,Girard,Ingénieur,drone tactique,3,drone : assemblage - tests - labo 1 - labo 2
+Gilles,Grillot,agent,recherche et développement,4,toutes les salles
+Hugo,Guérin,Chercheur,drone tactique,3,drone : assemblage - tests - labo 1 - labo 2
+Nadine,Guillot,Ingénieur,drone tactique,3,drone : assemblage - tests - labo 1 - labo 2
+Nathalie,Henry,Technicienne,drone tactique,2,drone : assemblage - tests - labo 1
+Lucas,Lambert,Ingénieur,drone tactique,2,drone : assemblage - tests - labo 1
+Laure,Lamy,Technicienne,identification biométrique,1,bio : assemblage - tests
+Adèle,Laporte,Chercheuse,drone tactique,3,drone : assemblage - tests - labo 1 - labo 2
+Claudine,Leclerc,Ingénieur,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Fabienne,Lecomte,Ingénieur,commandes de vol,3,cmd vol : assemblage - tests - labo 1 - labo 2
+Etienne,Lefebvre,Technicien,commandes de vol,1,cmd vol : assemblage - tests
+Frédéric,Legrand,Chercheur,identification biométrique,2,bio : assemblage - tests - labo 1
+Mathilde,Lemaire,Technicienne,drone tactique,1,drone : assemblage - tests
+François,Leroy,Technicien,commandes de vol,1,cmd vol : assemblage - tests
+Mathias,Martin,Technicien,drone tactique,1,drone : assemblage - tests
+Evelyne,Mathieu,agent,recherche et développement,4,toutes les salles
+Jonathan,Mercier,Ingénieur,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Marie,Meunier,Technicienne,drone tactique,1,drone : assemblage - tests
+Vanessa,Meyer,Technicienne,drone tactique,1,drone : assemblage - tests
+Lucie,Monnier,Ingénieur,identification biométrique,2,bio : assemblage - tests - labo 1
+Lucas,Moreau,Technicien,commandes de vol,1,cmd vol : assemblage - tests
+Léo,Morel,Ingénieur,drone tactique,3,drone : assemblage - tests - labo 1 - labo 2
+Manon,Morin,Technicienne,drone tactique,2,drone : assemblage - tests - labo 1
+Pierre,Muller,Ingénieur,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Cécile,Payet,Ingénieur,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Chloé,Perrin,Technicienne,drone tactique,2,drone : assemblage - tests - labo 1
+Ethan,Petit,Technicien,drone tactique,1,drone : assemblage - tests
+Elodie,Rey,Technicienne,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Pierre,Rousseau,Ingénieur,commandes de vol,3,cmd vol : assemblage - tests - labo 1 - labo 2
+Paul,Roux,Chercheur,drone tactique,3,drone : assemblage - tests - labo 1 - labo 2
+Philippe,Roux,Directeur,recherche et développement,4,toutes les salles
+Clara,Tessier,Ingénieur,identification biométrique,2,bio : assemblage - tests - labo 1
+Claire,Vidal,Technicienne,commandes de vol,2,cmd vol : assemblage - tests - labo 1
+Thomas,Vincent,Ingénieur,commandes de vol,3,cmd vol : assemblage - tests - labo 1 - labo 2
