@@ -136,7 +136,7 @@ INSERT INTO `employes` (`ID_employe`, `prenom`, `nom`, `droit`, `ID_SECTEUR`, `I
 (53, 'Philippe', 'Roux', 4, 4, 1),
 (54, 'Clara', 'Tessier', 2, 3, 6),
 (55, 'Claire', 'Vidal', 2, 2, 3),
-(56, 'Thomas', 'Vincent', 3, 2, 6),
+(56, 'Thomas', 'Vincent', 3, 2, 6);
 
 -- --------------------------------------------------------
 
