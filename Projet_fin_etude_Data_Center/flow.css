@@ -1,0 +1,247 @@
+/* Réinitialisation des styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", Arial, sans-serif; /* Police moderne */
+}
+
+/* Arrière-plan léger */
+body {
+    background: linear-gradient(135deg, #87CEEB, #00BFFF); /* Dégradé bleu clair */
+    color: #0077b6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* Conteneur principal */
+.container {
+    width: 100%;
+    max-width: 500px;
+    background: rgba(255, 255, 255, 0.85); /* Fond clair */
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px #00ffff1a;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Conteneur pour les formulaires */
+.containerListe {
+    width: 100%;
+    max-width: 420px;
+    padding: 25px;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.9); /* Fond clair */
+    text-align: center;
+
+    /* Centre verticalement et horizontalement */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* Effet subtil */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+/* Formulaires */
+.containerListe form {
+    width: 100%;
+    background: #f0f0f0; /* Fond clair */
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 255, 255, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.containerListe form:hover {
+    transform: scale(1.02); /* Effet léger au survol */
+}
+
+.containerTitle {
+        position: absolute;
+        top: 20px; /* Ajuste la position verticale */
+        left: 50%;
+        transform: translateX(-50%); /* Centre horizontalement */
+        font-size: 3rem; /* Taille du texte */
+        font-weight: bold; /* Texte en gras */
+        text-align: center;
+        color: #333; /* Couleur du texte */
+        text-transform: uppercase; /* Met en majuscules */
+    
+}
+
+/* Conteneur pour le bouton de retour */
+.containerRetour {
+    width: 100%;
+    max-width: 250px;
+    padding: 15px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.9); /* Fond clair */
+    text-align: center;
+
+    /* Positionnement en bas à droite */
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+    /* Effet subtil */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Formulaire du retour */
+.containerRetour form {
+    width: 100%;
+    background: #f0f0f0; /* Fond clair */
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 255, 255, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.containerRetour form:hover {
+    transform: scale(1.05); /* Effet léger au survol */
+}
+
+/* Bouton de retour */
+.containerRetour button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.containerRetour button:hover {
+    background: #0056b3;
+}
+
+
+/* Labels améliorés */
+label {
+    display: block;
+    font-weight: bold;
+    color: #0077b6;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-shadow: 0px 0px 8px rgba(0, 255, 255, 0.5);
+}
+
+/* Champs de saisie */
+input {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #1a1f38;
+    font-size: 14px;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Effet focus */
+input:focus {
+    border-color: #00eaff;
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.6);
+}
+
+/* Bouton principal */
+button {
+    width: 100%;
+    background: linear-gradient(45deg, #0077b6, #00a8e8);
+    color: white;
+    padding-top: 50px;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Effet hover */
+button:hover {
+    background: linear-gradient(45deg, #005f99, #008ac1);
+    box-shadow: 0 0 12px rgba(0, 255, 255, 0.4);
+}
+
+span {
+    display: block;
+    font-weight: bold;
+    color: #0077b6;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-shadow: 0px 0px 8px rgba(0, 255, 255, 0.5);
+}
+/* Ajustement pour petits écrans */
+@media (max-width: 500px) {
+    .container {
+        width: 90%;
+        padding: 20px;
+    }
+    .containerListe {
+        max-width: 90%;
+    }
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banniere {
+    width: 100%;
+    background-color: #1e1e1e;
+    padding: 15px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.banniere a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    transition: background-color 0.3s ease;
+}
+
+.banniere a:hover {
+    background-color: #444;
+    border-radius: 5px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    padding-top: 80px; /* espace pour la bannière */
+}
